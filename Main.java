@@ -1,7 +1,7 @@
 class Main {
   public static void main(String[] args) {
     String znakChoinki = "*";
-		for (int x=1; x<51; x=x+2)
+		for (int x=1; x<51; x++)
 			{
 				for (int y=1; y<51; y++)
 					{
