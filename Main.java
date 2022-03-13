@@ -1,11 +1,11 @@
 class Main {
   public static void main(String[] args) {
-    String znakChoinki = "*";
-		for (int x=1; x<51; x++)
+    String znakChoinki = "9";
+		for (int x=1; x<20; x++)
 			{
-				for (int y=1; y<51; y++)
+				for (int y=1; y<20; y++)
 					{
-						if (y<(51-x))
+						if (y<(20-x))
 						{
 								System.out.print(" ");
 						}
